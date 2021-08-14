@@ -1,0 +1,27 @@
+[
+  {
+		"name": "Philippines",
+		"leaderName": "Felipe I",
+		"adjective": ["Filipino"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hail his Most Catholic Majesty Felipe I of the Philippines! Your realm was founded in your name by Miguel Lopez de Legaspi in 1565. As such, the feuding rulers in your Asian realm have been united in your name. It is high time to make your kingdom great, your Most Catholic Majesty!",
+		"startIntroPart2": "Your Most Catholic Majesty, the peoples of the Philippines are asking you to help lead the kingdom to victory against all those who oppose it! Will you uphold the realm and the faith in Asia? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "You threaten my realm? This means war!",
+		"attacked": "Submit and there will be peace. Refuse and you'll be defeated!",
+		"defeated": "The kingdom has fallen. Pray for us all.",
+		"introduction": "Hello. My name is Felipe I, king of the East Indies.",
+		"neutralHello": "Hello!",
+		"hateHello": "What is it?",
+		"tradeRequest": "Let us trade.",
+		"outerColor": [253,215,50],
+		"innerColor": [0,0,0],
+		"unique": "Plus Ultra",
+		"uniques": ["+[1] Movement for all [Mounted] units", "Double quantity of [Horses] produced","+1 Movement for all embarked units","Units pay only 1 movement point to disembark","-[25]% [Land] unit maintenance costs"],
+		"cities": ["Manila","Tondo","Butuan","Tagbilaran","Dapitan","San Joaquin","Villa de San Miguel de Cebu","Santa Ana","Cainta","San Carlos",
+			"Laguo","Malate","Cavite","Don Galo","Pandacan","Quiapo","Sampaloc","Visita Santa Ana de Sapa","Dilao","San Juan del Monte",
+			"San Felipe Neri","San Pedro de Macati","Palaos","Santiago de la Ascensión","Agaña","La Villa Rica de Arévalo","Santa Cruz","San Fernando","Bacolor",
+			"Ciudad Fernandina de Vigan","Malolos","Jolo","Lingayen","Batangan","Basco","Ciudad de Zamboanga","Pueblo de Albay","Iba",]
+	},
+]
