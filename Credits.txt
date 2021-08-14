@@ -1,5 +1,8 @@
 Here are all the sources for the various image files used in this mod along with the.atlas file:
 
-1. Philippine flag: https://www.facebook.com/CartholicMonarchistLeague/photos/the-philippines-are-rightful-spanish-land-and-must-be-made-an-independent-overse/701136427008901/
+1. Philippine flag:
+1a. The flag itself: https://thenounproject.com/search/?q=philippines&i=19182 By Win, PH 
+1b. The crown: https://thenounproject.com/search/?q=crown&i=2109619 By Vectors Market 
+1c. The double-headed eagle: https://thenounproject.com/search/?q=double+eagle&i=1793451 By Saeful Muslim, ID 
 2. Principalia: https://www.clipartmax.com/middle/m2H7i8K9m2Z5G6b1_knight-cartoon-black-and-white/
 3. Fortified Church: https://thenounproject.com/search/?q=church&i=545894 by icon 54 
