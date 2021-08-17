@@ -18,7 +18,7 @@
 		"outerColor": [253,215,50],
 		"innerColor": [140,0,26],
 		"unique": "Plus Ultra",
-		"uniques": ["Double quantity of [Horses] produced","+1 Movement for all embarked units","Units pay only 1 movement point to disembark","-[25]% [Land] unit maintenance costs"],
+		"uniques": ["Double quantity of [Horses] produced","+1 Movement for all embarked units","Units pay only 1 movement point to disembark","-[25]% [Land] unit maintenance costs","[+1 Production] from every [Stable]"],
 		"cities": ["Manila","Tondo","Butuan","Tagbilaran","Dapitan","San Joaquin","Villa de San Miguel de Cebu","Santa Ana","Cainta","San Carlos",
 			"Laguo","Malate","Cavite","Don Galo","Pandacan","Quiapo","Sampaloc","Visita Santa Ana de Sapa","Dilao","San Juan del Monte",
 			"San Felipe Neri","San Pedro de Macati","Palaos","Santiago de la Ascensión","Agaña","La Villa Rica de Arévalo","Santa Cruz","San Fernando","Bacolor",
