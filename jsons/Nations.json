@@ -15,7 +15,7 @@
 		"neutralHello": "Hello!",
 		"hateHello": "What is it?",
 		"tradeRequest": "Let us trade.",
-		"outerColor": [253,215,50],
+		"outerColor": [255,255,255],
 		"innerColor": [140,0,26],
 		"unique": "Plus Ultra",
 		"uniques": ["Double quantity of [Horses] produced","+1 Movement for all embarked units","Units pay only 1 movement point to disembark","-[25]% [Land] unit maintenance costs","[+1 Production] from every [Stable]"],
