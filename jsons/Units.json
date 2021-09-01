@@ -2,6 +2,7 @@
   {
 		"name": "Principalia",
 		"unitType": "Mounted",
+	        "uniqueTo": "Philippines",
 		"movement": 5,
 		"strength": 25,
 		"cost": 125,
