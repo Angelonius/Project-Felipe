@@ -6,3 +6,5 @@ Disclaimer: In this mod, the Philippines is led by a Spanish Habsburg. This is b
 CHANGELOG:
 
 v.1.1: Updated the flag.
+
+v.1.2: Added faith to the Fortified Church.
