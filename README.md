@@ -10,3 +10,5 @@ v.1.1: Updated the flag.
 v.1.2: Added faith to the Fortified Church.
 
 v.1.3: Added in the "Favored Religion" mechanic in line with the latest update to the base game.
+
+v.1.4: Updated the Land and Water Unit maintenance values to make it work with the base game, upgraded the movement for embarked units.
