@@ -13,4 +13,4 @@ v.1.3: Added in the "Favored Religion" mechanic in line with the latest update t
 
 v.1.4: Updated the Land and Water Unit maintenance values to make it work with the base game, upgraded the movement for embarked units.
 
-v.1.5: Updated the damage values.
+v.1.5: Updated the damage values and upgraded the Principalia's damage.
