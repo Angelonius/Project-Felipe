@@ -9,7 +9,7 @@
 		"maintenance": 0,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 25,
-		"culture": 4,
+		"culture": 5,
 		"requiredBuilding": "Monument",
 		"requiredTech": "Drama and Poetry"
 	},
