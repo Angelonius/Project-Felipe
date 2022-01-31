@@ -16,3 +16,5 @@ v.1.4: Updated the Land and Water Unit maintenance values to make it work with t
 v.1.5: Updated the damage values and upgraded the Principalia's damage.
 
 v.1.6: Buffed both the country and the Fortified Church.
+
+v.1.7: Updated the Principalia.
