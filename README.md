@@ -17,4 +17,4 @@ v.1.5: Updated the damage values and upgraded the Principalia's damage.
 
 v.1.6: Buffed both the country and the Fortified Church.
 
-v.1.7: Updated the Principalia.
+v.1.7: Updated all jsons.
