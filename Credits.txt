@@ -9,3 +9,4 @@ Here are all the sources for the various image files used in this mod along with
 4. Filipino flag for v.1.1:
 4a. The crown: https://thenounproject.com/search/?q=crown&i=2109619 By Vectors Market 
 4b. The double-headed eagle: https://thenounproject.com/search/?q=double+eagle&i=1793451 By Saeful Muslim, ID 
+5. Principalia sprite: https://github.com/letstalkaboutdune
