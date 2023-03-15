@@ -20,3 +20,5 @@ v.1.6: Buffed both the country and the Fortified Church.
 v.1.7: Updated all jsons.
 
 v.1.8: Updated Filipinas' unique.
+
+v.1.9: Updated the Principalia sprite.
