@@ -22,3 +22,5 @@ v.1.7: Updated all jsons.
 v.1.8: Updated Filipinas' unique.
 
 v.1.9: Updated the Principalia sprite.
+
+v.1.10: Updated Filipinas' unique.
